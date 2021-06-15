@@ -1,6 +1,6 @@
 import { createGlobalStyle } from 'styled-components'
 
-const GlobalStyle =  createGlobalStyle`
+const GlobalStyle = createGlobalStyle`
     *,
     *::before,
     *::after {
@@ -28,7 +28,6 @@ const GlobalStyle =  createGlobalStyle`
       button { 
           cursor: pointer;
       }
-
 `;
 
 export default GlobalStyle;
