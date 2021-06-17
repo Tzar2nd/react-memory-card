@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-memory-card/static/css/main.c22b4743.chunk.css",
+    "main.js": "/react-memory-card/static/js/main.bc22c940.chunk.js",
+    "main.js.map": "/react-memory-card/static/js/main.bc22c940.chunk.js.map",
+    "runtime-main.js": "/react-memory-card/static/js/runtime-main.18ac0f59.js",
+    "runtime-main.js.map": "/react-memory-card/static/js/runtime-main.18ac0f59.js.map",
+    "static/js/2.6d2b9581.chunk.js": "/react-memory-card/static/js/2.6d2b9581.chunk.js",
+    "static/js/2.6d2b9581.chunk.js.map": "/react-memory-card/static/js/2.6d2b9581.chunk.js.map",
+    "index.html": "/react-memory-card/index.html",
+    "static/css/main.c22b4743.chunk.css.map": "/react-memory-card/static/css/main.c22b4743.chunk.css.map",
+    "static/js/2.6d2b9581.chunk.js.LICENSE.txt": "/react-memory-card/static/js/2.6d2b9581.chunk.js.LICENSE.txt",
+    "static/media/cinque-terre.jpg": "/react-memory-card/static/media/cinque-terre.06f73a02.jpg",
+    "static/media/colosseum.jpg": "/react-memory-card/static/media/colosseum.2b40221f.jpg",
+    "static/media/grand-canal.jpg": "/react-memory-card/static/media/grand-canal.897cbc8c.jpg",
+    "static/media/leaning-tower-of-pisa.jpg": "/react-memory-card/static/media/leaning-tower-of-pisa.77a582c4.jpg",
+    "static/media/milano-duomo.jpg": "/react-memory-card/static/media/milano-duomo.d5c98ab0.jpg",
+    "static/media/pantheon.jpg": "/react-memory-card/static/media/pantheon.d91e1442.jpg",
+    "static/media/rialto-bridge.jpg": "/react-memory-card/static/media/rialto-bridge.8c1430a4.jpg",
+    "static/media/st-marks-square.jpg": "/react-memory-card/static/media/st-marks-square.87fcf337.jpg",
+    "static/media/st-peters-basilica.jpg": "/react-memory-card/static/media/st-peters-basilica.c7e81923.jpg",
+    "static/media/trevi-fountain.jpg": "/react-memory-card/static/media/trevi-fountain.fb8cd4c1.jpg",
+    "static/media/vatican.jpg": "/react-memory-card/static/media/vatican.057f3975.jpg",
+    "static/media/vesuvius.jpg": "/react-memory-card/static/media/vesuvius.f7778d10.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18ac0f59.js",
+    "static/js/2.6d2b9581.chunk.js",
+    "static/css/main.c22b4743.chunk.css",
+    "static/js/main.bc22c940.chunk.js"
+  ]
+}
